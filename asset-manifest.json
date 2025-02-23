@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/my-worktenis/static/css/main.e987d751.css",
-    "main.js": "/my-worktenis/static/js/main.ecee5180.js",
+    "main.js": "/my-worktenis/static/js/main.cf40fba1.js",
     "static/js/453.3cbe0440.chunk.js": "/my-worktenis/static/js/453.3cbe0440.chunk.js",
     "index.html": "/my-worktenis/index.html",
-    "main.e987d751.css.map": "/my-worktenis/static/css/main.e987d751.css.map",
-    "main.ecee5180.js.map": "/my-worktenis/static/js/main.ecee5180.js.map",
+    "main.cf40fba1.js.map": "/my-worktenis/static/js/main.cf40fba1.js.map",
     "453.3cbe0440.chunk.js.map": "/my-worktenis/static/js/453.3cbe0440.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e987d751.css",
-    "static/js/main.ecee5180.js"
+    "static/js/main.cf40fba1.js"
   ]
 }
